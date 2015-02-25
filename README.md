@@ -2,6 +2,8 @@ Bulk empty description of user stories
 =========================
 
 ## Overview
+WARNING: THIS APP WILL DELETE DESCRIPTIONS OF STORIES!
+CHECK THE LIST OF STORIES RETURNED BY YOUR QUERY BEFORE CLICKING THE "DELEETE" BUTTON
 
 ![](pic1.png)
 
